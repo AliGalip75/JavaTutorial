@@ -23,5 +23,6 @@ public class Main {
         /**
          * @author Ali Galip Yetiş
          */
+
     }
 }
