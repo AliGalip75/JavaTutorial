@@ -31,5 +31,11 @@ public class PassingStatus {
         }
         avarage = sum/5.0;
         System.out.println("Ortalama:" + avarage);
+        if(avarage < 55){
+            System.out.println("Kaldınız");
+        }
+        else{
+            System.out.println("Geçtiniz");
+        }
     }
 }
