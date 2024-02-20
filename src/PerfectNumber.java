@@ -15,6 +15,7 @@ public class PerfectNumber {
             System.out.println("Mükemmel sayıdır");
         }else{
             System.out.println("Mükemmel sayı değildir");
+
         }
     }
 }
